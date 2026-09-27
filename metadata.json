@@ -1,0 +1,6 @@
+{
+  "name": "FestiveAtlas: US & European Holiday Tradition & Gift Guide",
+  "description": "Discover authentic cultural traditions, curated holiday essentials, product specifications, and seasonal deals across the United States and Europe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
